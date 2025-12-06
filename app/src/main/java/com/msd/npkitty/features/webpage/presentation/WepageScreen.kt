@@ -24,7 +24,7 @@ fun WebpageScreen() {
 private fun AndroidViewContent(
     modifier: Modifier = Modifier
 ) {
-    val url = "https://msd-club.github.io"
+    val url = "https://npkanalyzer.ets-dev.com/"
 
     AndroidView(
         modifier = modifier,
